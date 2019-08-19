@@ -2,9 +2,13 @@
 {
 "id":"518966501",
 "name":"天猫",
+ "status":"open",
+ "resp":{}
 },
 {
 "id":"414245413",
 "name":"京东",
+"status":"close",
+ "resp":{}
 },
 ]
